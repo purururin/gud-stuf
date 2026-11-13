@@ -130,3 +130,5 @@ https://github.com/paramonos/RPG-Maker-MV-MZ-Cheat-UI-Plugin
 https://github.com/emerladCoder/RPG-Maker-MV-Cheat-Menu-Plugin
 
 https://github.com/AhmetCanArslan/ShizuWall
+
+https://reshax.com/topic/47-reverse-engineering-tutorials-collection/
