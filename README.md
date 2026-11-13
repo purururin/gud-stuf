@@ -34,6 +34,8 @@ https://github.com/AtomCrafty/UniversalInjectorFramework
 
 https://github.com/Lite0812/CialloHook
 
+https://github.com/arcusmaximus/VNTranslationTools/tree/main/VNTextProxy
+
 # Mein:
 https://github.com/purururin/csx-parser
 
@@ -41,13 +43,18 @@ https://github.com/purururin/WillPlusTools
 
 
 # many-in-one:
+https://github.com/arcusmaximus/VNTranslationTools/
+
 https://github.com/lifegpc/msg-tool
 
 https://github.com/nanami5270/GARbro-Mod
 
+https://github.com/Refrain69/GalArc
 
 
 # single:
+https://github.com/arcusmaximus/KirikiriTools
+
 https://github.com/RPG-Maker-Translation-Tools/rvpacker-txt-rs-lib
 
 https://github.com/ZQF-ReVN/RxCMVS
